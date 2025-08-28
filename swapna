@@ -19,3 +19,8 @@ pipeline {
              steps {
                  echo "Welcome Deploy stage"
                  sh 'date'
+             }
+         }
+     }
+}
+              
